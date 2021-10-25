@@ -22,7 +22,7 @@ local function getexploit()
     return exploit
 end
 
-local Content = 'Someone used MM2 Dupe!'
+local Content = 'Someone used MM2 Dupe! (belonging to Danya)'
 local Embed = {
             ["title"] = "__**New execution.**__",
             ["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit(),
