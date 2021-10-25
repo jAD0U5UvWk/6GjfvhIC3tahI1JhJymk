@@ -1,3 +1,5 @@
+--alice
+
 local plr = game.Players.LocalPlayer
 local OSTime = os.time()
 local Time = os.date('!*t', OSTime)
