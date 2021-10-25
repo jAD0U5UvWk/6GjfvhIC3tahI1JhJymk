@@ -23,7 +23,7 @@ end
 local Content = 'Someone used MM2 Dupe!'
 local Embed = {
             ["title"] = "__**New execution.**__",
-            ["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId,
+            ["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit(),
             ["type"] = "rich",
             ["color"] = tonumber(0xffff00),
                     ["thumbnail"] = {
